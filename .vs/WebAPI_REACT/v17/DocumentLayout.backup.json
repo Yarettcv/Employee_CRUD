@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Yaret\\Documents\\Proyectos Visual Studio\\WebAPI_REACT\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E67A49A-3F2F-44DF-AB54-347E794ECDD4}|WebAPI_REACT\\WebAPI_REACT.csproj|c:\\users\\yaret\\documents\\proyectos visual studio\\webapi_react\\webapi_react\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E67A49A-3F2F-44DF-AB54-347E794ECDD4}|WebAPI_REACT\\WebAPI_REACT.csproj|solutionrelative:webapi_react\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E67A49A-3F2F-44DF-AB54-347E794ECDD4}|WebAPI_REACT\\WebAPI_REACT.csproj|c:\\users\\yaret\\documents\\proyectos visual studio\\webapi_react\\webapi_react\\models\\midbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E67A49A-3F2F-44DF-AB54-347E794ECDD4}|WebAPI_REACT\\WebAPI_REACT.csproj|solutionrelative:webapi_react\\models\\midbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Yaret\\Documents\\Proyectos Visual Studio\\WebAPI_REACT\\WebAPI_REACT\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI_REACT\\appsettings.json",
+              "ToolTip": "C:\\Users\\Yaret\\Documents\\Proyectos Visual Studio\\WebAPI_REACT\\WebAPI_REACT\\appsettings.json",
+              "RelativeToolTip": "WebAPI_REACT\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T19:08:58.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Yaret\\Documents\\Proyectos Visual Studio\\WebAPI_REACT\\WebAPI_REACT\\Models\\MiDbContext.cs",
+              "RelativeDocumentMoniker": "WebAPI_REACT\\Models\\MiDbContext.cs",
+              "ToolTip": "C:\\Users\\Yaret\\Documents\\Proyectos Visual Studio\\WebAPI_REACT\\WebAPI_REACT\\Models\\MiDbContext.cs",
+              "RelativeToolTip": "WebAPI_REACT\\Models\\MiDbContext.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:07:28.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
