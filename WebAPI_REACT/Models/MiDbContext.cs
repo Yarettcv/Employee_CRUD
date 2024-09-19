@@ -28,11 +28,9 @@ public partial class MiDbContext : DbContext
     {
         modelBuilder.Entity<Empleado>(entity =>
         {
-            entity.HasKey(e => e.IdEmpleado).HasName("PK__Empleado__CE6D8B9E30FF03A0");
-
             entity.ToTable("Empleado");
 
-            entity.Property(e => e.IdEmpleado).ValueGeneratedNever();
+            entity.HasKey(e => e.IdEmpleado);
             entity.Property(e => e.Nombre)
                 .HasMaxLength(50)
                 .IsUnicode(false);
@@ -46,11 +44,9 @@ public partial class MiDbContext : DbContext
 
         modelBuilder.Entity<Usuario>(entity =>
         {
-            entity.HasKey(e => e.IdUsuario).HasName("PK__Usuario__5B65BF970EE7A8D4");
-
             entity.ToTable("Usuario");
 
-            entity.Property(e => e.IdUsuario).ValueGeneratedNever();
+            entity.HasKey(e => e.IdUsuario);
             entity.Property(e => e.Clave)
                 .HasMaxLength(100)
                 .IsUnicode(false);
